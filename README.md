@@ -6,8 +6,7 @@ Status indicator for compliance status.
 
 Takes the following attributes:
 
-  * cmId (optional)
-  * leadId (optional) ** you must supply either cmId or leadId
+  * cmId
   * projectId
   * contactId (optional)
   * ruleSet (optional)
